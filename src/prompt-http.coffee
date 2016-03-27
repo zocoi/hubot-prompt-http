@@ -23,7 +23,8 @@ class Http extends Adapter
         text: str,
         speech: str,
         status: "OK",
-        webhookreply: null
+        webhookreply: null,
+        images: []
         # images: [
         #   {
         #     imageurl: "http://api.dev.promptapp.io/images/random/helloworld.gif",
