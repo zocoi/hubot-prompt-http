@@ -1,0 +1,19 @@
+{
+  "name": "hubot-prompt-http",
+  "version": "1.0.0",
+  "description": "hubot adapter for promptapp.io",
+  "main": "src/prompt-http.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hung Dao",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "hubot": ">=2.0"
+  },
+  "devDependencies": {
+    "coffee-script": ">=1.2.0"
+  }
+}
